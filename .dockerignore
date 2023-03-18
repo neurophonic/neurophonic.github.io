@@ -12,3 +12,5 @@ yarn-error.log
 .jekyll-metadata
 vendor
 yarn*
+dockerimage
+dockerimage/
